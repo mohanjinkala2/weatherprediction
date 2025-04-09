@@ -1,6 +1,10 @@
 # weatherprediction Using DecisionTree
 # Introduction
-      * Weather type classification is an important task in the field of environmental data analysis, with applications in meteorology, agriculture, transportation, and disaster management. Traditionally, weather forecasting has relied on complex physical models and manual observations. However, with the increasing availability of large-scale weather datasets, machine learning has emerged as a powerful approach for automating the classification of weather conditions.
+      * Weather type classification is an important task in the field of environmental data analysis, with applications in meteorology, agriculture, transportation, 
+      
+      and disaster management. Traditionally, weather forecasting has relied on complex physical models and manual observations. However, with the increasing 
+      
+      availability of large-scale weather datasets, machine learning has emerged as a powerful approach for automating the classification of weather conditions.
 
 
       * Machine learning models can learn patterns and relationships from historical weather data—such as temperature, humidity, wind speed, and atmospheric pressure—to classify current or future weather into categories like sunny, rainy, cloudy, snowy, etc. This approach not only enhances accuracy but also allows for faster and more scalable solutions compared to traditional methods.
