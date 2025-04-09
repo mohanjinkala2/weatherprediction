@@ -20,9 +20,9 @@ Machine learning models can learn patterns and relationships from historical wea
     ,3)**KNN-KNeighborsClassifier**,4)**SVM-Classifier**,5)**DecisionTree-Classifier**.
 # **Final Results:**
    * Out Of This Five Models **DecisionTree-Classifier** Performed Best With **Accuracy: 97.3766752209866** At Max_depth=6 and Critiria=Entropy
-   * **f1_score: 97.38656506695207
-       precision_score: 97.40733074064329
-       recall_score: 97.3766752209866**
+   * **f1_score: 97.38656506695207**
+   * **precision_score: 97.40733074064329**
+   * **recall_score: 97.3766752209866**
 # **Conclusion:**
 * This project demonstrated the potential of using a Decision Tree Classifier for real-world weather type classification. By analyzing key weather features—such as temperature, humidity, and wind speed—the model was able to accurately categorize weather conditions into distinct types like sunny, rainy, or cloudy.
 
